@@ -6,7 +6,7 @@ I have had a few assumptions while designing the application so I wanted to clea
  -and passkey provided.
  
  -I was not able to fully develop the application in the Flux architecture because of the simplicity of the application, I did not see an 
- -obvious way to implement the Flux architecture without greatly exagerating the complexity of the application due to it's simplicity. 
+ -obvious way to implement the Flux architecture without greatly exaggerating the complexity of the application due to it's simplicity. 
  
  -If there is a better way to implement this please let me know and if you have any examples please share them, 
  I am very interested and would love to learn more about that implementation.
